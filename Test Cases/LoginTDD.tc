@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginTDD</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3b98aee7-c902-4654-95ac-797e8692a8ba</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>41f11514-5b2a-42ed-8adb-ef891e3b14e2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/db</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>41f11514-5b2a-42ed-8adb-ef891e3b14e2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>username</value>
+      <variableId>2afe00de-f50b-42aa-83cf-1ceaca045596</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>41f11514-5b2a-42ed-8adb-ef891e3b14e2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>password</value>
+      <variableId>1288ce73-8611-4663-8f43-967a076bf011</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2afe00de-f50b-42aa-83cf-1ceaca045596</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1288ce73-8611-4663-8f43-967a076bf011</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
